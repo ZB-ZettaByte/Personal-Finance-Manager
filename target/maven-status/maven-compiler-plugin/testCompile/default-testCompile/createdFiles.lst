@@ -1,0 +1,8 @@
+com/finance/manager/BudgetHandlerTest.class
+com/finance/manager/UserServiceTest.class
+com/finance/manager/analytics/SpendingAnomalyTest.class
+com/finance/manager/ExpenseRepositoryTest.class
+com/finance/manager/analytics/SpendingAnalyticsTest.class
+com/finance/manager/BudgetRepositoryTest.class
+com/finance/manager/ExpenseTest.class
+com/finance/manager/CSVHandlerTest.class
