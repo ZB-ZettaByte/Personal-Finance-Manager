@@ -1,4 +1,4 @@
-# Budget Analyzer
+# Personal Finance Manager
 
 A desktop personal finance app built with Spring Boot and Swing. Log expenses, set budgets, visualize spending trends, and detect anomalies — all stored locally with no internet required.
 
